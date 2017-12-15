@@ -1,8 +1,8 @@
 # GifTastic
 
-# Description
-
 In this assignment, I use the GIPHY API to make a dynamic web page that populates with gifs of selected categories of movies, call the GIPHY API and use JavaScript and jQuery to change the HTML of our site.
+
+# Description
 
 * created an array of strings, each one related to a category and Saved it to a variable called movCat(movie category).
 
