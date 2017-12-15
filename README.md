@@ -4,7 +4,7 @@ In this assignment, I use the GIPHY API to make a dynamic web page that populate
 
 # Description
 
-* created an array of strings, each one related to a category and Saved it to a variable called movCat(movie category).
+* Created an array of strings, each one related to a category and Saved it to a variable called movCat(movie category).
 
 * The app takes the categories in this array and create buttons in our HTML.
 
